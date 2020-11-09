@@ -26,15 +26,15 @@
 
 - excel截图
 
-![1](image\excel.png)
+![contents](./image/excel.png)
 
 - lua截图
 
-![1](image\luafile.png)
+![contents](./image/luafile.png)
 
 - Unity Log截图
 
-![1](image\unitylog.png)
+![contents](./image/unitylog.png)
 
   
 
